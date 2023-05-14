@@ -58,7 +58,7 @@ export default function Home() {
             />
             <div className="card-actions justify-start">
               <button type="submit" value="Send" className="btn">
-                Buy Now
+                Sent SMS
               </button>
             </div>
           </form>
